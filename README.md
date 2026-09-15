@@ -16,7 +16,7 @@ DSH 的插件分两半，改动生效的方式不一样：
 宽侧边栏（默认）：
 
 ```
-<img width="1920" height="1050" alt="Snipaste_2026-09-15_16-59-34" src="https://github.com/user-attachments/assets/ecc2788c-2772-4583-bd77-87eae36f3abc" />
+![image](https://github.com/sHartet/dsh-control/blob/main/image/1.png)
 
 
 ```
