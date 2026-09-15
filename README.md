@@ -14,6 +14,7 @@ DSH 的插件分两半，改动生效的方式不一样：
 ## 它长什么样
 
 左下角
+
 <img width="869" height="534" alt="Snipaste_2026-09-15_17-11-19" src="https://github.com/user-attachments/assets/278116e8-f432-474a-8a37-8ed21b675efa" />
 
 
