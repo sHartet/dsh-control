@@ -1,0 +1,18 @@
+# dsh-harness-control bundle patch
+#
+# This file is the `dsh.bundle.patch` layer of the published package: when the
+# plugin is installed through the official CLI —
+#
+#   dsh plugin --profile <name> add dsh-harness-control
+#
+# — the command reconciles `dsh.profile.bundles` against installed packages
+# and, seeing this declaration, appends `dsh-harness-control` to the bundle
+# stack. The profile boot then merges THIS patch (a single `insert` of the
+# plugin row), so no profile file has to be edited by hand.
+#
+# The row is the host half. It carries no configuration: every decision the
+# plugin makes is a browser-side one, and the copy lives in the client bundle's
+# own dictionaries.
+- insert:
+    - id: harness-control
+      name: 'dsh-harness-control'
