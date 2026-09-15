@@ -1,4 +1,4 @@
-# dsh-harness-control
+# dsh-control
 
 > 给 DSH 侧边栏底部加两个按钮：**重启**与**刷新** —— 改完插件不用离开界面，也不用切终端。
 
