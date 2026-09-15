@@ -13,7 +13,6 @@ DSH 的插件分两半，改动生效的方式不一样：
 
 ## 它长什么样
 
-宽侧边栏（默认）：
 
 ```
 <img width="869" height="534" alt="Snipaste_2026-09-15_17-11-19" src="https://github.com/user-attachments/assets/54ca7eca-50a9-449b-afca-6cd71d6f5561" />
