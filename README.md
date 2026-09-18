@@ -25,13 +25,13 @@ DSH 的插件分两半，改动生效的方式不一样：
 ### 从 GitHub 安装（推荐）
 
 ```bash
-dsh plugin --profile web add github:<你的用户名>/dsh-harness-control
+dsh plugin --profile web add github:sHartet/dsh-control
 ```
 
 ### 从 npm 安装
 
 ```bash
-dsh plugin --profile web add dsh-harness-control
+dsh plugin --profile web add dsh-control
 ```
 
 `dsh plugin` 会把参数原样转发给 profile 目录下的 pnpm，并在装完后自动把这个包追加进 `dsh.profile.bundles` —— 不需要手改 profile 文件。
